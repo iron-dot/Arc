@@ -1,11 +1,4 @@
 # ArcOne
-#해킹가능한 gpt 레포지토리
-https://github.com/andreashappe/hackingBuddyGPT 
-
-#또한 해킹하는 기능 아크원에 추가할것 
-#그리고 오토지피티를 이용해서 자율적으로 하게 구현하고 그걸 아크원에 결합할것 (모든 해킹 가능한 자율 모델 에이전트 만들것)
-
-https://github.com/MetaSLAM/CyberGPT
-#이건 로봇 제어 오토지피티로 잘이용할것
-
-#그리고 사이버 보안 최고의 보안을 자랑하는 모델도 찾아서 합칠것
+# 아크원 완성된 설계도
+https://drive.google.com/file/d/17kLE9iLrB0qihaqqSWAvvL6wdx2rGDQ3/view?usp=sharing
+# 충분한 컴퓨팅 리소스 (그래픽카드 RTX3090이상) 확보시 시연 가능하며 실제 인간들이 손쉽게 사용할수있게 배포가능
